@@ -7,8 +7,8 @@ source("pullSDA.r")
 asym <- c("UT686", "UT685")
 
 # these are the two data.tree objects containing all of the rulesets. They are defined in another file.
-load("hsg-datatree.rdata")
-load("svi-datatree.rdata")
+load("datatree-hsg.rdata")
+load("datatree-svi.rdata")
 
 print(tr.hsg)
 print(tr.svi)
