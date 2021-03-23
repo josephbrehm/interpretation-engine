@@ -1,0 +1,11 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <CategoryNames>
+      <Category></Category>
+      <Category>Not suitable</Category>
+      <Category>Somewhat suitable</Category>
+      <Category>Moderately suitable</Category>
+      <Category>Suitable</Category>
+    </CategoryNames>
+  </PAMRasterBand>
+</PAMDataset>
